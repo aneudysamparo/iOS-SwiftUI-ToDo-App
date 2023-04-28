@@ -13,6 +13,7 @@
 		005470B629FB44D6002C25AA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 005470B529FB44D6002C25AA /* ContentView.swift */; };
 		005470B829FB44D7002C25AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 005470B729FB44D7002C25AA /* Assets.xcassets */; };
 		005470BC29FB44D7002C25AA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 005470BB29FB44D7002C25AA /* Preview Assets.xcassets */; };
+		005470C329FB4513002C25AA /* ToDoItem+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 005470C229FB4513002C25AA /* ToDoItem+CoreDataProperties.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		005470B729FB44D7002C25AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		005470B929FB44D7002C25AA /* MyDo.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MyDo.entitlements; sourceTree = "<group>"; };
 		005470BB29FB44D7002C25AA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		005470C229FB4513002C25AA /* ToDoItem+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToDoItem+CoreDataProperties.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				005470B929FB44D7002C25AA /* MyDo.entitlements */,
 				005470B229FB44D6002C25AA /* MyDo.xcdatamodeld */,
 				005470BA29FB44D7002C25AA /* Preview Content */,
+				005470C229FB4513002C25AA /* ToDoItem+CoreDataProperties.swift */,
 			);
 			path = MyDo;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 				005470AF29FB44D6002C25AA /* MyDoApp.swift in Sources */,
 				005470B129FB44D6002C25AA /* Persistence.swift in Sources */,
 				005470B629FB44D6002C25AA /* ContentView.swift in Sources */,
+				005470C329FB4513002C25AA /* ToDoItem+CoreDataProperties.swift in Sources */,
 				005470B429FB44D6002C25AA /* MyDo.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
