@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A25A3083-A260-4C3E-B238-2E3152136013"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C480F176-CD1B-4B18-A353-14484763C590"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyDo/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "addItem()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C480F176-CD1B-4B18-A353-14484763C590 - 9891e61dd779b036"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in MyDo.ContentView.addItem() -&gt; ()"
+                  moduleName = "MyDo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aa/Learning/iOS%20Apps/MyDo/MyDo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "1080">
+               </Location>
+               <Location
+                  uuid = "C480F176-CD1B-4B18-A353-14484763C590 - 9891e61dd779b019"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in MyDo.ContentView.addItem() -&gt; ()"
+                  moduleName = "MyDo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aa/Learning/iOS%20Apps/MyDo/MyDo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "816">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BF3E041-553F-43B8-B208-0AF6638338AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyDo/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "addItem()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5BF3E041-553F-43B8-B208-0AF6638338AD - 9891e61dd779b3d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in MyDo.ContentView.addItem() -&gt; ()"
+                  moduleName = "MyDo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aa/Learning/iOS%20Apps/MyDo/MyDo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "5BF3E041-553F-43B8-B208-0AF6638338AD - 9891e61dd779b019"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in MyDo.ContentView.addItem() -&gt; ()"
+                  moduleName = "MyDo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aa/Learning/iOS%20Apps/MyDo/MyDo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "816">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1491FC44-CC22-454F-A976-1A627564184B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyDo/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "addItem()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1491FC44-CC22-454F-A976-1A627564184B - 9891e61dd779b3d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in MyDo.ContentView.addItem() -&gt; ()"
+                  moduleName = "MyDo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aa/Learning/iOS%20Apps/MyDo/MyDo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "1491FC44-CC22-454F-A976-1A627564184B - 9891e61dd779b3f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in MyDo.ContentView.addItem() -&gt; ()"
+                  moduleName = "MyDo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aa/Learning/iOS%20Apps/MyDo/MyDo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "792">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BFE9D4C-50A8-4F60-95CB-386439ABCE86"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyDo/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "addItem()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
